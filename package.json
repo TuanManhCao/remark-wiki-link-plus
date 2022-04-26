@@ -1,10 +1,10 @@
 {
-  "name": "remark-wiki-link-plus",
+  "name": "@tuancao/remark-wiki-link",
   "version": "1.0.0",
   "description": "Parse and render wiki-style links in markdown especially Obsidian style links.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/life-itself/remark-wiki-link-plus.git"
+    "url": "git+https://github.com/TuanManhCao/remark-wiki-link-plus.git"
   },
   "keywords": [
     "remark",
@@ -15,9 +15,9 @@
   "author": "Life Itself",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/life-itself/remark-wiki-link-plus/issues"
+    "url": "https://github.com/TuanManhCao/remark-wiki-link-plus/issues"
   },
-  "homepage": "https://github.com/life-itself/remark-wiki-link-plus#readme",
+  "homepage": "https://github.com/TuanManhCao/remark-wiki-link-plus#readme",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "browser": "dist/index.umd.js",
